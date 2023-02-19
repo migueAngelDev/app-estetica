@@ -1,0 +1,46 @@
+[
+	{
+		"picture": "https://assets.codepen.io/12005/windmill.jpg",
+		"label": "A windmill"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/suspension-bridge.jpg",
+		"label": "The Clifton Suspension Bridge"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/sunset.jpg",
+		"label": "Sunset and boats"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/snowy.jpg",
+		"label": "a river in the snow"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/bristol-balloons1.jpg",
+		"label": "a single checked balloon"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/dog-balloon.jpg",
+		"label": "a hot air balloon shaped like a dog"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/abq-balloons.jpg",
+		"label": "View from a hot air balloon of other balloons"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/disney-balloon.jpg",
+		"label": "a balloon fairground ride"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/bristol-harbor.jpg",
+		"label": "sunrise over a harbor"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/bristol-balloons2.jpg",
+		"label": "three hot air balloons in a blue sky"
+	},
+	{
+		"picture": "https://assets.codepen.io/12005/toronto.jpg",
+		"label": "the Toronto light up sign at night"
+	}
+]

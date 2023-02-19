@@ -1,0 +1,8 @@
+[
+	{ "label": "Juveniles caballero", "value": "juvenilesCaballero" },
+	{ "label": "Juveniles damas", "value": "juvenilesDamas" },
+	{ "label": "Niño", "value": "nino" },
+	{ "label": "Niña", "value": "nina" },
+	{ "label": "Hombre", "value": "hombre" },
+	{ "label": "Mujer", "value": "mujer" }
+]
