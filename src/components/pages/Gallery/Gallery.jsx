@@ -12,6 +12,8 @@ const Gallery = () => {
 	// TODO: Realizar Componente Header y Footer
 	// TODO: Agregar branding de empresa
 
+	// TODO: EXAMPLE
+
 	return (
 		<>
 			<Seo />
